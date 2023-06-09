@@ -16,7 +16,7 @@
 - 🚲 Bike and mountain lover  
   
 
-- 💻 My first package on [NPM](npmjs.com/~maaatt)  
+- 💻 My first package on [NPM](https://npmjs.com/~maaatt)  
   
 
 <br/>  
