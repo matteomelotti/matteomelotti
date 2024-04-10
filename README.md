@@ -1,10 +1,7 @@
 <div align="center">👋</div>  
   
 
-### <div align="center">I'm Matteo, a full-time full-stack developer 👨‍💻 working since 2016 🚀</div>    
-
-- 🌱 I’m currently learning NextJS  
-  
+### <div align="center">I'm Matteo, a full-time full-stack developer 👨‍💻 working since 2016 🚀</div>      
 
 - ❓Curious person, tech lover and driven  
   
