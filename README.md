@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning NextJS  
   
 
-- ❓Curious person tech lover and driven  
+- ❓Curious person, tech lover and driven  
   
 
 - 🚲 Bike and mountain lover  
