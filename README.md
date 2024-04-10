@@ -1,11 +1,7 @@
 <div align="center">👋</div>  
   
 
-### <div align="center">I'm Matteo, a full-time full-stack developer 👨‍💻 working since 2016 🚀</div>  
-  
-
-- 🔭 I’m currently working on [Devinterface](https://www.devinterface.com)  
-  
+### <div align="center">I'm Matteo, a full-time full-stack developer 👨‍💻 working since 2016 🚀</div>    
 
 - 🌱 I’m currently learning NextJS  
   
